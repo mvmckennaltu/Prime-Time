@@ -5,9 +5,21 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Playground.unity
     guid: 707acc8dffb72b144bb1ffbe1c965f3d
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: cee0224bb3d269649a887d1db9085c0f
+  - enabled: 1
+    path: Assets/Scenes/MainLevel.Unity
+    guid: 342eeed8e6727e74d8c00d1ffe9ff834
+  - enabled: 1
+    path: Assets/Scenes/Victory.unity
+    guid: 69badc706b093e84b91c14ee6115a897
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 476f0cb70053018479430afc0187a677
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7,
       type: 2}

@@ -5,6 +5,13 @@ TagManager:
   serializedVersion: 2
   tags:
   - CinemachineTarget
+  - Missile
+  - Beam
+  - Ground
+  - Enemy
+  - Door
+  - Death Barrier
+  - Goal
   layers:
   - Default
   - TransparentFX
@@ -16,8 +23,8 @@ TagManager:
   - 
   - Character
   - Ground
-  - 
-  - 
+  - Enemy
+  - Projectile
   - 
   - 
   - 
